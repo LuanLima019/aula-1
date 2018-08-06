@@ -1,0 +1,19 @@
+body {
+        margin: 0;
+        background-color: rgb(0, 247, 255);
+        font-family: 'Kirang Haerang', cursive;    
+}
+h1 { 
+    font-size: 50px;
+    color: red
+}
+h2 { 
+    font-size: 35px;
+        color: blue;
+}
+h1, h2 {
+    
+    text-align: center;
+    font-weight: 800;
+
+}
