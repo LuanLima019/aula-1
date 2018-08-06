@@ -1,6 +1,6 @@
 body {
         margin: 0;
-        background-color: rgb(0, 247, 255);
+        background-color: lightblue;
         font-family: 'Kirang Haerang', cursive;    
 }
 h1 { 
@@ -16,4 +16,13 @@ h1, h2 {
     text-align: center;
     font-weight: 800;
 }
-p { color: rgb(124, 99, 99)}
+p { color: rgb(124, 99, 99);
+    margin-left: 10px;
+}
+button{
+    border: solid blue 2px;
+    background-color: yellow;
+    border-radius: 50%;
+    padding: 10px;
+
+}
